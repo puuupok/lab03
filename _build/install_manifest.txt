@@ -1,0 +1,4 @@
+/home/oleg/1andronyx/workspace/projects/lab03/_install/lib/libprint.a
+/home/oleg/1andronyx/workspace/projects/lab03/_install/include/print.hpp
+/home/oleg/1andronyx/workspace/projects/lab03/_install/cmake/print-config.cmake
+/home/oleg/1andronyx/workspace/projects/lab03/_install/cmake/print-config-noconfig.cmake

@@ -1,0 +1,7 @@
+/home/oleg/1andronyx/workspace/projects/lab03/_build/CMakeFiles/print.dir
+/home/oleg/1andronyx/workspace/projects/lab03/_build/CMakeFiles/edit_cache.dir
+/home/oleg/1andronyx/workspace/projects/lab03/_build/CMakeFiles/rebuild_cache.dir
+/home/oleg/1andronyx/workspace/projects/lab03/_build/CMakeFiles/list_install_components.dir
+/home/oleg/1andronyx/workspace/projects/lab03/_build/CMakeFiles/install.dir
+/home/oleg/1andronyx/workspace/projects/lab03/_build/CMakeFiles/install/local.dir
+/home/oleg/1andronyx/workspace/projects/lab03/_build/CMakeFiles/install/strip.dir
